@@ -1,0 +1,15 @@
+
+# Compiled executable files
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Common build directories
+build/
+dist/
+
+# Temporary files
+*.tmp
+*.log
